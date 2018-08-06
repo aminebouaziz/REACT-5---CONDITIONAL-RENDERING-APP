@@ -1,0 +1,31 @@
+.pic{
+    height: 300px;
+    width: 300px;
+   
+}
+
+.card{
+   
+    height: 400px;
+    width: 300px;
+    margin:auto;
+    margin-top: 100px;
+    font-size: 20px;
+    margin-left:150px;
+}
+.name{
+   font-family: Arial, sans-serif;
+}
+.last{
+    font-weight: 800
+}
+.post{
+    color: rgb(156, 154, 154);
+}
+.male{
+    border :blue 3px solid ;
+}
+
+.female{
+    border :yellow 3px solid ;
+}
